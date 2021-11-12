@@ -56,3 +56,16 @@ h2 {
     background-color: red;
     font-family: cursive;
 }
+
+b {
+    font-family: cursive;
+}
+
+.blokchain {
+    background-color: green;
+    font-size: x-large;
+}
+
+.Moneda {
+    background-color: hotpink;
+}
