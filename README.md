@@ -1,5 +1,9 @@
 # Do_it_yourself
-Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
+1 Utilizar [Font Awesome](https://fontawesome.com/) para añadir un icono de página
+
+2 Utilizar [Google Fonts](https://fonts.google.com/) para cambiar el tipo de fuente del documento
+
+3 Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
 
     * Regla 1. A todos los elementos que contengan la etiqueta `h1` contendran estas características: text-decoration: underline;color: red text-align: center; font-size: 200%.
 
@@ -27,8 +31,4 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
     * Regla 12. Los elementos de clase `blokchain` tendran el color de fondo `green` y el tamaño de letra `x-large`
 
     * Regla 13. Los elementos de clase `Moneda`tendran el color de fondo `background-color: hotpink`
-    
-    * Regla 14. Los elementos `b`tendran el tipo de fuente `cursiva`
-
-    * Regla 15. Los elementos de clase `blokchain` tendran el color de fondo `green` y el tamaño de letra `x-large`
     
