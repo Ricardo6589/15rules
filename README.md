@@ -32,3 +32,5 @@
 
     * Regla 13. Los elementos de clase `Moneda`tendran el color de fondo `background-color: hotpink`
     
+    *Regla 14. p,h1,h2 tengan un margen en ka izquierda y derecha 5%
+    
