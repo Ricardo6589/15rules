@@ -5,9 +5,13 @@ h1 {
     font-size: 200%;
 }
 
-* {
+p,
+h1,
+h2 {
     margin-left: 5%;
     margin-right: 5%;
+    padding-left: 7%;
+    padding-right: 5%;
 }
 
 * {
@@ -46,14 +50,14 @@ img {
     margin-right: 100%;
 }
 
-p {
-    border: black 5px;
-    border-radius: 5px;
-}
-
 h2 {
     background-color: red;
     font-family: cursive;
+}
+
+p {
+    border: black 5px;
+    border-radius: 5px;
 }
 
 b {
